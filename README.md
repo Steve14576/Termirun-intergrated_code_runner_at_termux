@@ -5,3 +5,4 @@
 4. Recommending termirun's association with Termux, Acode, Acodex-Terminal.
 5. The releases now come in zip packages in bilingual support, Chinese and English, choose the one appropriate and unzip it.
 6. There is specific secondary README files within zip packages, which is more detailed about settings, guidance, so on.
+7. I would say it's beginner friendly, because I build this up by asking AI like hell, I literally am introduced to git and github yesterday.
