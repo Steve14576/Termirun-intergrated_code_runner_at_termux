@@ -13,4 +13,6 @@
 
 - It is born only because the author simlpy wants to use his Android tablet to do coding works, and cannot find ways to simlpy set up a "run" button in Acode.
 
-- Hell knows, it started in about 60 lines of codes okey, then 120, then 300, 500, 700, 1200, and I was like here goes nothing just say whethre its usable Fuieh~
+- Hell knows, it started in about 60 lines of codes okey, then 120, then 300, 500, 700, 1200, and I was like here goes nothing just say whethre its usable Fuiyoh~
+
+- Praise_ _king
