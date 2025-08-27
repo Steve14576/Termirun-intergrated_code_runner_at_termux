@@ -4,7 +4,7 @@
 - `termirun.sh`, A ready-to-use Shell Script tool aiming to run code files(`c,cpp,java,py,fortran,r` and extending...) using `Termux` on `Android(either root or unroot)` devices, convenitntly, by encasing the calls for multiple compilers into simple unified commands.
 
 - Every `termirun` script works with 3 folders:  
-  1. the "seat", where termirun script sits and your terminal `cd` at.(for unrooted users, better if under `～/` and given `chomod +777`)
+  1. the "seat", where `termirun` script sits and your terminal `cd` at.(for unrooted users, better if under `～/` and given `chomod +777`)
   2. the "working" folder, where the code you work with file is stored.
   3. the "bins" folder, where the compile product is stored and executed from.(for unrooted users, better if under `～/` and given `chomod +777`)
   4. The termirun script, if set up properly, each time when tieggered, compiles one code file from your "working" folder to the "bins" folder and autometically executes it.
@@ -12,7 +12,7 @@
 - Recommending `termirun`'s association with `Termux`, `Acode`, `Acodex-Terminal`(optional), `MT Manager`(optional).
 
 - Do mind the mis-renaming, the script of all versions has fullname `termirun.sh`, not base name. The extra suffix `.sh` could be automatically attached druing transfer process(which makes the fullname`termirun.sh.sh`, which completely disables it). Some programmes might not acknowledge the ommition of `.sh`, but Termux is not one of them.
-  - If its visible name on an Android device is `termirun.sh`, just rename it to `termirun`, the icon might change, but trust me, it's fine.
+  - If its **visible** name on an Android device is `termirun.sh`, just rename it to `termirun`, the icon might change, but trust me, it's fine.
 
 - Beginner firendly(as you can tell I am a beginner myself)
 
