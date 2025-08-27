@@ -12,7 +12,7 @@
 - Recommending `termirun`'s association with `Termux`, `Acode`, `Acodex-Terminal`(optional), `MT Manager`(optional).
 
 - Do mind the mis-renaming, the script of all versions has fullname `termirun.sh`, not base name. The extra suffix `.sh` could be automatically attached druing transfer process(which makes the fullname`termirun.sh.sh`, which completely disables it). Some programmes might not acknowledge the ommition of `.sh`, but Termux is not one of them.
-  - If the visible name on Android device is `termirun.sh`, just rename it to `termirun`, the icon might change, but trust me, it's fine.
+  - If its visible name on an Android device is `termirun.sh`, just rename it to `termirun`, the icon might change, but trust me, it's fine.
 
 - Beginner firendly(as you can tell I am a beginner myself)
 
