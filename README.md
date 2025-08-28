@@ -1,6 +1,6 @@
 ## Termirun-intergrated_code_runner_at_termux
 ```
-There are now bugs concerning failure in execution of R, Fortran.
+Bugs concerning failure in execution of R, Fortran.
 ```
 
 - Generated with Doubao A.I.
