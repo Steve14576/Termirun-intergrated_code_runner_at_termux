@@ -2,7 +2,7 @@
 ```
 - Bugs concerning failure in execution of R, Fortran.
 - There might be delay in detailed README within tha pack from the general README displayed below.
-- Havent figured out how or where should Python libraries be installed.
+- Havent figured out how or where should Python libraries be installed here, so work conservatively with that.
 ```
 
 - Generated with Doubao A.I.
