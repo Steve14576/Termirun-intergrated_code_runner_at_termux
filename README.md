@@ -1,6 +1,8 @@
 ## Termirun-intergrated_code_runner_at_termux
 ```
-Bugs concerning failure in execution of R, Fortran.
+- Bugs concerning failure in execution of R, Fortran.
+- There might be delay in detailed README within tha pack from the general README displayed below.
+- Havent figured out how or where should Python libraries be installed.
 ```
 
 - Generated with Doubao A.I.
