@@ -1,4 +1,8 @@
 ## Termirun-intergrated_code_runner_at_termux
+```
+There are now bugs concerning failure in execution of R, Fortran.
+```
+
 - Generated with Doubao A.I.
 
 - `termirun.sh`, A ready-to-use Shell Script tool aiming to run code files(`c,cpp,java,py,fortran,r` and extending...) using `Termux` on `Android(either root or unroot)` devices, convenitntly, by encasing the calls for multiple compilers into simple unified commands.
