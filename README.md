@@ -1,5 +1,7 @@
 ## Termirun-intergrated_code_runner_at_termux
 ```
+- That is it, so far for termirun 1 series. Comming up Termirun_Light series and Termirun_Full series in the next repo
+
 - Bugs concerning failure in execution of R, Fortran.
 - There might be delay in detailed README within tha pack than the general README displayed below.
 - Havent figured out how or where should Python libraries be installed here, so work conservatively with that.
