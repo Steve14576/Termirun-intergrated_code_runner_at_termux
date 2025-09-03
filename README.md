@@ -1,6 +1,6 @@
 ## Termirun1-test_for_an_intergrated_code_runner_at_termux
 ```
-- That is it, so far for termirun 1 series. Comming up Termirun_Light series and Termirun_Full series in the next repo
+- That is it, so far for termirun1 series. Comming up Termirun2_Light series and Termirun2_Full series in the next Termirun2 repo
 
 - Bugs concerning failure in execution of R, Fortran.
 - There might be delay in detailed README within tha pack than the general README displayed below.
