@@ -1,4 +1,4 @@
-## Termirun-intergrated_code_runner_at_termux
+## Termirun1-test_for_an_intergrated_code_runner_at_termux
 ```
 - That is it, so far for termirun 1 series. Comming up Termirun_Light series and Termirun_Full series in the next repo
 
